@@ -50,7 +50,7 @@ router.put('/Update', function(req, res) {
     if(req.body)
       // let m1 = new ResModel(req.body);
        ResModel.update({location: req.body.location},
-         { $set: {location: 'China'}}, function(err, lists)
+         { $set: {Name: req.body.Name}}, function(err, lists)
        {
          if(err)
          {

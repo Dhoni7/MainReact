@@ -11,15 +11,15 @@ function createApp() {
   return app;
 }
 
-/*function setupStaticRoutes(app) {
+function setupStaticRoutes(app) {
   app.use(express.static(path.resolve(__dirname, '../', 'webclient')));
   return app;
-}*/
+}
 
 function setupRestRoutes(app) {
   console.log('Inside service setupRestRoutes');
-app.use('/users', require(path.join(__dirname, './users')));
-app.use('/restaurant', require(path.join(__dirname, './restaurant')));
+  app.use('/users', require(path.join(__dirname, './users')));
+  app.use('/restaurant', require(path.join(__dirname, './restaurant')));
   //  MOUNT YOUR REST ROUTE HERE
   //  Eg:
 
@@ -54,10 +54,10 @@ function setupMiddlewares(app) {
   const compression = require('compression');
   app.use(compression());
 
-  app.use(function(req,res,next)
+  app.use(function(req, res, next)
   {
-    res.header('Access-Control-Allow-Origin',"*");
-    res.header('Access-Control-Allow-Method','GET,POST,PUT,DELETE');
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Method', 'GET,POST,PUT,DELETE');
     res.header('Access-Control-Allow-Headers',
       'Origin, X-Requested-With, Content-Type, Accept, Authorization');
     next();
@@ -76,10 +76,21 @@ function setupWebpack(app) {
     const webpackCompiler = webpack(webpackConfig);
 
     app.use(webpackHotMiddleware(webpackCompiler));
-    /*app.use(webpackDevMiddleware(webpackCompiler, {
-      noInfo: true,
-      publicPath: webpackConfig.output.publicPath
-    }));*/
+    app.use(webpackDevMiddleware(webpackCompiler, {
+  noInfo: true,
+  publicPath: webpackConfig.output.publicPath,
+  stats: {
+      colors: true
+  },
+  watchOptions: {
+    aggregateTimeout: 300,
+    poll: 1000
+  }
+}));
+    // app.use(webpackDevMiddleware(webpackCompiler, {
+    //   noInfo: true,
+    //   publicPath: webpackConfig.output.publicPath
+    // }));
   }
   return app;
 }
@@ -112,7 +123,7 @@ function setupMongooseConnections() {
 // App Constructor function is exported
 module.exports = {
   createApp: createApp,
- // setupStaticRoutes: setupStaticRoutes,
+  setupStaticRoutes: setupStaticRoutes,
   setupRestRoutes: setupRestRoutes,
   setupMiddlewares: setupMiddlewares,
   setupMongooseConnections: setupMongooseConnections,

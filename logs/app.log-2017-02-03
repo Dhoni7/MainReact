@@ -1,0 +1,40 @@
+[03 02 2017 04:43:48.342] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 04:55:08.476] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:04:27.756] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:13:43.516] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:14:00.618] [DEBUG] - Received request{"Id":"\"Hotel01\"","Name":"\"Annapoorna\"","loaction":"\"Salem\""}
+[03 02 2017 05:17:24.577] [DEBUG] - Received request{"Id":"\"Hotel01\"","Name":"\"Annapoorna\"","loaction":"\"Salem\""}
+[03 02 2017 05:18:07.120] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:18:44.354] [DEBUG] - Received request{"userName":"\"ss\"","password":"\"dh\""}
+[03 02 2017 05:20:35.578] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:21:16.400] [DEBUG] - Received request{"username":"\"ss\"","password":"\"dh\""}
+[03 02 2017 05:24:57.271] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:25:04.890] [DEBUG] - Received request{}
+[03 02 2017 05:27:24.484] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:27:29.430] [DEBUG] - Received request{"userName":"\"raj\"","password":"\"23\""}
+[03 02 2017 05:30:29.792] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:30:31.910] [DEBUG] - Received request{}
+[03 02 2017 05:36:59.679] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 05:37:17.238] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:39:06.144] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 05:39:57.939] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 06:00:35.987] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 06:09:42.822] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 06:10:19.939] [DEBUG] - Received request{"userName":"\"ss\"","password":"\"dh\""}
+[03 02 2017 06:47:25.181] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:10:54.329] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:13:04.625] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:14:28.060] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:16:44.440] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:28:04.288] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:30:03.696] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 07:38:04.168] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 09:27:48.778] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 09:35:08.689] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 09:36:31.529] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 10:03:39.231] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 10:13:08.078] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 10:50:18.288] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 10:57:19.032] [DEBUG] - Mongoose is now disconnected..!
+[03 02 2017 10:57:31.800] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[03 02 2017 11:55:23.656] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB

@@ -1,38 +1,86 @@
 'use strict';
-const router = require('express').Router();
-const userCtrl = require('./userController');
 const logger = require('./../../applogger');
+const router = require('express').Router();
 const userModel = require('./userEntity').userModel;
 
-router.post('/add', function(req, res){
-	logger.debug("Received request"+JSON.stringify(req.body));
-  if(req.body)
-  {
-    let user = new userModel(req.body);
-    user.save(function(err){
-    if(err){
-      res.send(err);
-    }
-		if(req.body.userName == null){
-			res.send('input mismatch');
-		}
-    else{
-       res.json({message:'User saved successfully'});
-    }
-    });
-  }
-})
+/* add the user to the system */
+router.post('/add', function(req, res) {
+   logger.debug("Inside user post");
+   logger.debug("Received request" + JSON.stringify(req.body));
+   if (Object.keys(req.body).length > 0) {
+       let user = new userModel(req.body);
+       if (req.body) {
+           user.save(function(err) {
+               if (err) {
+                   res.send(err);
+               } else {
+                   res.send('inserted successfully');
+               }
+           });
+       }
+   } else {
+       res.send('enter the data');
+   }
+});
 
-// router.post('/add', function(req, res) {
-//     logger.debug("Inside user post");
-//     let user = req.body;
-//     res.send('Hello '+user);
-// });
-//
-// // Get details of all user in the system
-// router.get('/', function(req, res) {
-//   console.log('Inside get');
-//   res.send('response from user GET route check');
-// });
+/* Get details of all user in the system */
+router.get('/find', function(req, res) {
+   logger.debug('Inside get');
+   userModel.find({}, function(err, user) {
+       if (err) {
+           res.send(err);
+       } else {
+           //  logger.debug(user);
+           res.send(user);
+       }
+   });
+   //res.send('response from user GET route check');
+});
+
+/* update details of all user in the system */
+router.put('/update', function(req, res) {
+   logger.debug('Inside update');
+   let name = req.body.userName;
+   let password = req.body.password;
+   if (Object.keys(req.body).length === 0) {
+       res.send('response from user update route check');
+   } else {
+       userModel.update({
+           userName: name
+       }, {
+           $set: {
+               password: password
+           }
+       }, function(err) {
+           if (err) {
+               res.send(err);
+           } else {
+               logger.debug(name + " " + password);
+               res.send('updated successfuly');
+           }
+       })
+       //  res.send('updated');
+   }
+});
+
+/* Delete details of user in the system */
+router.delete('/delete', function(req, res) {
+   logger.debug('Inside delete');
+   let name = req.body.userName;
+   if (Object.keys(req.body).length === 0) {
+       res.send('response from user delete route check');
+   } else {
+       userModel.remove({
+           userName: name
+       }, function(err) {
+           if (err) {
+               res.send(err);
+           } else {
+               res.send('deleted successfully');
+           }
+       })
+       //res.send('deleted');
+   }
+});
 
 module.exports = router;

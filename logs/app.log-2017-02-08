@@ -1,0 +1,109 @@
+[08 02 2017 06:17:19.693] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:17:25.897] [DEBUG] - Inside get
+[08 02 2017 06:17:27.091] [DEBUG] - Inside user post
+[08 02 2017 06:17:27.093] [DEBUG] - Received request{}
+[08 02 2017 06:17:28.141] [DEBUG] - Inside user post
+[08 02 2017 06:17:28.142] [DEBUG] - Received request{"_userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:17:28.626] [DEBUG] - Inside delete
+[08 02 2017 06:17:28.888] [DEBUG] - Inside delete
+[08 02 2017 06:17:28.992] [DEBUG] - Inside update
+[08 02 2017 06:17:29.006] [DEBUG] - threka undefined
+[08 02 2017 06:17:29.060] [DEBUG] - Inside update
+[08 02 2017 06:19:48.968] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:19:55.060] [DEBUG] - Inside get
+[08 02 2017 06:19:55.512] [DEBUG] - Inside user post
+[08 02 2017 06:19:55.513] [DEBUG] - Received request{}
+[08 02 2017 06:19:56.401] [DEBUG] - Inside user post
+[08 02 2017 06:19:56.402] [DEBUG] - Received request{"_userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:19:57.515] [DEBUG] - Inside delete
+[08 02 2017 06:19:57.856] [DEBUG] - Inside delete
+[08 02 2017 06:19:57.973] [DEBUG] - Inside update
+[08 02 2017 06:19:57.988] [DEBUG] - undefined undefined
+[08 02 2017 06:19:59.456] [DEBUG] - Inside update
+[08 02 2017 06:21:38.215] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:21:43.701] [DEBUG] - Inside get
+[08 02 2017 06:21:44.819] [DEBUG] - Inside user post
+[08 02 2017 06:21:44.820] [DEBUG] - Received request{}
+[08 02 2017 06:21:45.723] [DEBUG] - Inside user post
+[08 02 2017 06:21:45.724] [DEBUG] - Received request{"userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:21:47.060] [DEBUG] - Inside delete
+[08 02 2017 06:21:47.393] [DEBUG] - Inside delete
+[08 02 2017 06:21:47.427] [DEBUG] - Inside update
+[08 02 2017 06:21:47.478] [DEBUG] - threka undefined
+[08 02 2017 06:21:47.503] [DEBUG] - Inside update
+[08 02 2017 06:24:31.162] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:24:39.413] [DEBUG] - Inside get
+[08 02 2017 06:25:55.187] [DEBUG] - Inside user post
+[08 02 2017 06:25:55.188] [DEBUG] - Received request{"userName":"\"dhoni\"","password":"\"ziva07\""}
+[08 02 2017 06:26:04.678] [DEBUG] - Inside get
+[08 02 2017 06:27:07.265] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:27:13.363] [DEBUG] - Inside get
+[08 02 2017 06:27:14.300] [DEBUG] - Inside user post
+[08 02 2017 06:27:14.301] [DEBUG] - Received request{}
+[08 02 2017 06:27:15.337] [DEBUG] - Inside user post
+[08 02 2017 06:27:15.339] [DEBUG] - Received request{"userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:27:16.027] [DEBUG] - Inside delete
+[08 02 2017 06:27:16.179] [DEBUG] - Inside delete
+[08 02 2017 06:27:16.230] [DEBUG] - Inside update
+[08 02 2017 06:27:16.244] [DEBUG] - threka undefined
+[08 02 2017 06:27:17.690] [DEBUG] - Inside update
+[08 02 2017 06:29:11.950] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:29:18.151] [DEBUG] - Inside get
+[08 02 2017 06:29:19.163] [DEBUG] - Inside user post
+[08 02 2017 06:29:19.164] [DEBUG] - Received request{}
+[08 02 2017 06:29:20.205] [DEBUG] - Inside user post
+[08 02 2017 06:29:20.206] [DEBUG] - Received request{"userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:29:20.944] [DEBUG] - Inside delete
+[08 02 2017 06:29:21.064] [DEBUG] - Inside delete
+[08 02 2017 06:29:21.111] [DEBUG] - Inside update
+[08 02 2017 06:29:21.122] [DEBUG] - threka undefined
+[08 02 2017 06:29:22.671] [DEBUG] - Inside update
+[08 02 2017 06:30:43.411] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:30:49.597] [DEBUG] - Inside get
+[08 02 2017 06:30:50.347] [DEBUG] - Inside user post
+[08 02 2017 06:30:50.348] [DEBUG] - Received request{}
+[08 02 2017 06:30:51.621] [DEBUG] - Inside user post
+[08 02 2017 06:30:51.622] [DEBUG] - Received request{"userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:30:52.308] [DEBUG] - Inside delete
+[08 02 2017 06:30:52.465] [DEBUG] - Inside delete
+[08 02 2017 06:30:52.525] [DEBUG] - Inside update
+[08 02 2017 06:30:52.535] [DEBUG] - threka undefined
+[08 02 2017 06:30:54.052] [DEBUG] - Inside update
+[08 02 2017 06:31:45.618] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 06:31:51.786] [DEBUG] - Inside get
+[08 02 2017 06:31:52.547] [DEBUG] - Inside user post
+[08 02 2017 06:31:52.548] [DEBUG] - Received request{}
+[08 02 2017 06:31:53.745] [DEBUG] - Inside user post
+[08 02 2017 06:31:53.747] [DEBUG] - Received request{"userName":"yuva2","password":"yuva2"}
+[08 02 2017 06:31:54.251] [DEBUG] - Inside delete
+[08 02 2017 06:31:54.510] [DEBUG] - Inside delete
+[08 02 2017 06:31:54.626] [DEBUG] - Inside update
+[08 02 2017 06:31:54.656] [DEBUG] - threka undefined
+[08 02 2017 06:31:55.112] [DEBUG] - Inside update
+[08 02 2017 07:33:17.420] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 07:34:06.803] [DEBUG] - Inside user post
+[08 02 2017 07:34:06.805] [DEBUG] - Received request{"userName":"\"dhoni\"","password":"\"ziva07\""}
+[08 02 2017 07:34:36.397] [DEBUG] - Inside user post
+[08 02 2017 07:34:36.400] [DEBUG] - Received request{"userName":"\"ssi\"","password":"\"honeybee\""}
+[08 02 2017 07:34:45.427] [DEBUG] - Inside get
+[08 02 2017 07:36:10.521] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 07:36:52.471] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 07:39:17.161] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 07:41:26.167] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 07:41:34.770] [DEBUG] - {"_id":"\"hotel1\"","restaurantName":"\"honeybee\"","cuisines":"\"chinese\"","location":"\"komara\""}
+[08 02 2017 07:41:46.172] [DEBUG] - Mongoose is now disconnected..!
+[08 02 2017 07:41:57.306] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 07:42:03.773] [DEBUG] - Inside get
+[08 02 2017 07:42:03.939] [DEBUG] - string
+[08 02 2017 07:42:04.775] [DEBUG] - Inside user post
+[08 02 2017 07:42:04.776] [DEBUG] - Received request{}
+[08 02 2017 07:42:05.841] [DEBUG] - Inside user post
+[08 02 2017 07:42:05.842] [DEBUG] - Received request{"userName":"yuva2","password":"yuva2"}
+[08 02 2017 07:42:06.585] [DEBUG] - Inside delete
+[08 02 2017 07:42:06.711] [DEBUG] - Inside delete
+[08 02 2017 07:42:07.201] [DEBUG] - Inside update
+[08 02 2017 07:42:08.014] [DEBUG] - threka undefined
+[08 02 2017 07:42:08.341] [DEBUG] - Inside update
+[08 02 2017 09:59:48.463] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[08 02 2017 17:07:41.031] [DEBUG] - Mongoose is now disconnected..!
+[08 02 2017 17:07:58.476] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB

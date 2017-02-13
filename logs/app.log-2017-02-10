@@ -1,0 +1,125 @@
+[10 02 2017 04:03:46.746] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:11:46.627] [DEBUG] - Received request{}
+[10 02 2017 04:13:35.317] [DEBUG] - Received request{}
+[10 02 2017 04:14:06.363] [DEBUG] - Received request{}
+[10 02 2017 04:15:38.477] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:16:03.707] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:19:42.187] [DEBUG] - {"id":"60116","name":"Chinese Corner","address":"11/3, Old Market Road, V V Puram, Basavanagudi, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/60116/9206ba36b344a9d4c667166249e2d27a_featured_v2.jpg","rating":"2.9"}
+[10 02 2017 04:19:51.938] [DEBUG] - Received request{}
+[10 02 2017 04:48:42.760] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:50:58.250] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:51:16.885] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 04:51:36.281] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 05:18:01.255] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 05:41:51.555] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 05:45:08.208] [DEBUG] - {"id":"69480","name":"Indian Fast Food","address":"2/309, Medavakkam Road, Kovilambakkam, Keelkattalai, Medavakkam, Chennai","image":"https://b.zmtcdn.com/data/pictures/0/69480/db751d2d987cf3acebcfacc5cc9bf58b_featured_v2.jpg","rating":"0"}
+[10 02 2017 05:45:23.630] [DEBUG] - Received request{}
+[10 02 2017 09:24:24.188] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:14:46.739] [DEBUG] - Received request{}
+[10 02 2017 10:17:03.460] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:17:50.758] [DEBUG] - Received request{"_id":"\"hotel1\"","restaurantName":"\"honeybee\"","cuisines":"\"chinese\"","location":"\"komara\""}
+[10 02 2017 10:18:25.861] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:19:21.834] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:19:57.155] [DEBUG] - Received request{}
+[10 02 2017 10:20:52.904] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:21:28.614] [DEBUG] - Received request{"name":"\"Chinese Corner\""}
+[10 02 2017 10:21:40.633] [DEBUG] - Received request{}
+[10 02 2017 10:34:19.765] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:35:01.765] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:41:32.454] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 10:50:19.206] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:13:32.313] [DEBUG] - Received request{}
+[10 02 2017 11:15:48.011] [DEBUG] - {"id":"71926","name":"Absolute Thai","address":"No. 24, Cenotaph Road, Opposite Lanson Toyota, Teynampet, Chennai","image":"https://b.zmtcdn.com/data/pictures/6/71926/68ae392337071ed9b5c3cfaf5a8cd52e_featured_v2.jpeg","rating":"4.4"}
+[10 02 2017 11:15:55.602] [DEBUG] - {"id":"69149","name":"Momo Restaurant","address":"208/3, OMR, Next To St. Joseph's College, Semmancheri, Chennai","image":"https://b.zmtcdn.com/data/pictures/9/69149/2c6691709bb33f0fd3e8235874406a4b_featured_v2.jpg","rating":"3.9"}
+[10 02 2017 11:16:13.781] [DEBUG] - {"id":"65565","name":"The Cascade","address":"1632, Platinum Tower, Khader Nawaz Khan Road, Nungambakkam, Chennai","image":"https://b.zmtcdn.com/data/pictures/5/65565/2d0405af1107da7e50581fec87335b82_featured_v2.jpg","rating":"4.0"}
+[10 02 2017 11:16:29.552] [DEBUG] - Received request{}
+[10 02 2017 11:17:52.547] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:18:36.603] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:18:55.741] [DEBUG] - Received request{"id":"\"60116\""}
+[10 02 2017 11:19:06.985] [DEBUG] - Received request{}
+[10 02 2017 11:50:19.040] [DEBUG] - Received request{"id":"\"60116\""}
+[10 02 2017 11:50:47.344] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 11:53:33.176] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:53:47.159] [DEBUG] - Received request{}
+[10 02 2017 11:54:37.774] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:54:50.300] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:54:57.538] [DEBUG] - Mongoose is now disconnected..!
+[10 02 2017 11:56:42.441] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 11:56:47.204] [DEBUG] - Received request{"id":"\"69480\""}
+[10 02 2017 11:57:30.574] [DEBUG] - Received request{}
+[10 02 2017 11:58:30.134] [DEBUG] - Received request{"id":"\"69480\""}
+[10 02 2017 12:00:14.268] [DEBUG] - Received request{}
+[10 02 2017 12:00:25.419] [DEBUG] - Received request{}
+[10 02 2017 12:02:00.603] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[10 02 2017 12:11:03.985] [DEBUG] - Received request{}
+[10 02 2017 12:11:26.633] [DEBUG] - Received request{}
+[10 02 2017 12:11:58.663] [DEBUG] - Received request{}
+[10 02 2017 12:12:46.209] [DEBUG] - Received request{}
+[10 02 2017 12:18:27.623] [DEBUG] - Received request{}
+[10 02 2017 12:18:40.417] [DEBUG] - Received request{}
+[10 02 2017 12:19:10.183] [DEBUG] - Received request{}
+[10 02 2017 12:19:25.410] [DEBUG] - Received request{}
+[10 02 2017 12:19:25.882] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.141] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.220] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.293] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.324] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.385] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.408] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.717] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.732] [DEBUG] - Received request{}
+[10 02 2017 12:19:26.804] [DEBUG] - Received request{}
+[10 02 2017 12:19:27.245] [DEBUG] - Received request{}
+[10 02 2017 12:19:27.280] [DEBUG] - Received request{}
+[10 02 2017 12:19:27.343] [DEBUG] - Received request{}
+[10 02 2017 12:19:27.458] [DEBUG] - Received request{}
+[10 02 2017 12:19:28.025] [DEBUG] - Received request{}
+[10 02 2017 12:19:28.061] [DEBUG] - Received request{}
+[10 02 2017 12:19:28.089] [DEBUG] - Received request{}
+[10 02 2017 12:19:56.955] [DEBUG] - Received request{}
+[10 02 2017 12:19:58.146] [DEBUG] - Received request{}
+[10 02 2017 12:19:58.662] [DEBUG] - Received request{}
+[10 02 2017 12:19:58.773] [DEBUG] - Received request{}
+[10 02 2017 12:19:58.813] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.149] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.171] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.232] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.302] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.339] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.383] [DEBUG] - Received request{}
+[10 02 2017 12:19:59.423] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.471] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.520] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.552] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.572] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.664] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.680] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.725] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.776] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.862] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.906] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.965] [DEBUG] - Received request{}
+[10 02 2017 12:20:00.981] [DEBUG] - Received request{}
+[10 02 2017 12:20:01.052] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.133] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.169] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.194] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.252] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.276] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.293] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.310] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.445] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.480] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.498] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.537] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.561] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.579] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.697] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.714] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.764] [DEBUG] - Received request{}
+[10 02 2017 12:20:16.784] [DEBUG] - Received request{}
+[10 02 2017 12:21:55.878] [DEBUG] - Received request{}
+[10 02 2017 12:22:15.828] [DEBUG] - Received request{}
+[10 02 2017 12:23:37.599] [DEBUG] - Received request{}
+[10 02 2017 12:23:48.716] [DEBUG] - Received request{}
+[10 02 2017 12:32:50.548] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB

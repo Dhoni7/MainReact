@@ -1,14 +1,15 @@
 'use strict';
 const logger = require('./../../applogger');
 const router = require('express').Router();
-const restaurantModel = require('./restEntity').restaurantModel;
+const RestaurantModel = require('./restEntity').restaurantModel;
 
 // adding restaurants
 router.post('/add', function(req, res) {
     logger.debug(JSON.stringify(req.body));
-if(req.body._id !== null) {
-      let restaurant = new restaurantModel(req.body);
-      restaurant.save(function(err){
+if(req.body.id !== null) {
+      let restaurant = new RestaurantModel(req.body);
+      restaurant.save(function(err)
+      {
         if(err)
         {
           res.send('some error occurred');
@@ -19,16 +20,17 @@ if(req.body._id !== null) {
       });
 }
 else {
-	res.send('enter a valid restaurant Id')
+	res.send('enter a valid restaurant Id');
 }
 });
 
-router.post('/display', function(req, res){
-	logger.debug('Received request'+JSON.stringify(req.body));
-  if(req.body._id !== null)
+router.post('/display', function(req, res)
+{
+	logger.debug('Received request' + JSON.stringify(req.body));
+  if(req.body.id !== null)
   {
-	restaurantModel.find(
-			{$or: [{_id:req.body._id}]}, function(err, result) {
+	RestaurantModel.find(
+			{$or: [{id: req.body.id}]}, function(err, result) {
     if(err) {
       res.send(err);
     }
@@ -42,16 +44,15 @@ router.post('/display', function(req, res){
 	}
 });
 
-router.get('/', function(req, res) {
-
-  res.send('response from restaurant GET route check');
-});
-router.get('/displayAll', function(req, res){
+router.get('/displayAll', function(req, res)
+{
 	logger.debug('Received request' + JSON.stringify(req.body));
   if(req.body)
   {
-	restaurantModel.find(function(err, result){
-    if(err){
+	RestaurantModel.find(function(err, result)
+  {
+    if(err)
+    {
       res.send(err);
     }
     else{
@@ -59,14 +60,17 @@ router.get('/displayAll', function(req, res){
     }
     });
   }
-})
+});
 
-router.put('/update', function(req, res){
-	logger.debug('Received request'+JSON.stringify(req.body));
+router.put('/update', function(req, res)
+{
+	logger.debug('Received request' + JSON.stringify(req.body));
   if(req.body.id !== null)
   {
-		restaurantModel.update({id:req.body.id}, {$set: {location: req.body.location}}, function(err){
-    if(err){
+		RestaurantModel.update({id: req.body.id}, {$set: {location: req.body.location}}, function(err)
+    {
+    if(err)
+    {
       res.send('err');
     }
     else{
@@ -77,24 +81,25 @@ router.put('/update', function(req, res){
 	else {
 		res.send('enter a valid restaurantId');
 	}
-})
+});
 
-router.delete('/delete', function(req, res){
-	logger.debug('Received request'+JSON.stringify(req.body));
-  if(req.body.id!==null)
+router.delete('/delete', function(req, res)
+{
+  console.log(req.body.id);
+  let resId = Number(req.body.id);
+  console.log(resId);
+  if(resId !== null)
   {
-		restaurantModel.remove({id:req.body.id}, function(err){
+		RestaurantModel.remove({id: resId}, function(err)
+    {
     if(err)
     {
       res.send('err');
     }
     else{
-       res.send('Restaurant deleted successfully');
+       res.send('Restaurant deleted successfully' + resId + 'successfully');
     }
-    });
-  }
-	else {
-		res.send('enter a valid restaurant Id');
-	}
+  });
+}
 });
 module.exports = router;

@@ -1,9 +1,9 @@
-
 let React = require('react');
-import {Card , Button, Icon , Image} from 'semantic-ui-react';
+import {Card, Button, Icon, Image} from 'semantic-ui-react';
 import $ from 'jquery';
+// import Favour from 'favourites';
 let ListItem = React.createClass({
-  button(){
+  button() {
     let value = this.props;
     $.ajax({
 
@@ -12,7 +12,7 @@ let ListItem = React.createClass({
        data: value,
       success: function(data1)
       {
-        console.log("added successfully" + data1);
+        console.log('added successfully' + data1);
   }.bind(this),
       error: function(err)
       {

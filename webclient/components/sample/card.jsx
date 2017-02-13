@@ -1,4 +1,3 @@
-
 let React = require('react');
 let ListItem = require('./TemplateList.jsx');
 import {Card} from 'semantic-ui-react';
@@ -19,8 +18,9 @@ let List = React.createClass({
                     }}>{ListItems}</Card.Group>
                 );
               }
-              else {
-      return (<h1>Select some id and cuisine</h1>);
+              else
+              {
+      return (<p>Select some id and cuisine</p>);
     }
 }
 });

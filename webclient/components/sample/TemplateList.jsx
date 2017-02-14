@@ -9,15 +9,7 @@ let ListItem = React.createClass({
 
       url: 'http://localhost:8080/restaurant/add',
        type: 'POST',
-       data: value,
-      success: function(data1)
-      {
-        console.log('added successfully' + data1);
-  }.bind(this),
-      error: function(err)
-      {
-        console.log(err);
-      }.bind(this)
+       data: value
      });
   },
     render: function() {
@@ -44,4 +36,10 @@ let ListItem = React.createClass({
         );
     }
 });
+// ListItem.propTypes = {
+//   image: React.PropTypes.string,
+//   id: React.PropTypes.string,
+//   name: React.PropTypes.string,
+//   address: React.PropTypes.string
+// };
 module.exports = ListItem;

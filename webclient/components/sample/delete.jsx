@@ -1,6 +1,6 @@
 import React from 'react';
 import $ from 'jquery';
-import {Card, Image, Icon, Button} from 'semantic-ui-react';
+import {Icon, Button} from 'semantic-ui-react';
 class Delete extends React.Component {
   constructor()
   {
@@ -9,32 +9,29 @@ class Delete extends React.Component {
   }
   del()
   {
-    let data = {id:this.props.id};
-    console.log(data);
-    console.log(this.props.id);
+    let data = {id: this.props.id};
     $.ajax({
-        url: 'http://localhost:8080/Restaurant/delete',
+        url: 'http://localhost:8080/restaurant/delete',
         type: 'DELETE',
-        data: data,
-        success: function(data) {
-            console.log(data + 'deleted');
-        }.bind(this),
-        error: function(err) {
-            console.log('delete ', err);
-        }.bind(this)
+        data: data
     });
-  }
-  render() {
-
+// this.changeState();
+   }
+//   changeState()
+//   {
+//     this.refresh();
+//   }
+  render()
+  {
       return (
-
-
             <Button color="red" onClick = {this.del} >
                 <Icon className='delete'/>Delete</Button>
-
-
-    )};
-
+    );
   }
+
+}
+  Delete.propTypes = {
+    id: React.PropTypes.string
+  };
 
   module.exports = Delete;

@@ -1,0 +1,229 @@
+[13 02 2017 03:57:30.515] [DEBUG] - Received request{}
+[13 02 2017 03:57:42.051] [DEBUG] - Received request{}
+[13 02 2017 04:01:28.477] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:02:12.943] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:03:05.282] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:03:46.642] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:04:48.295] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:05:59.556] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:18:22.077] [DEBUG] - Received request{}
+[13 02 2017 04:18:25.116] [DEBUG] - Received request{}
+[13 02 2017 04:19:54.989] [DEBUG] - {"id":"54416","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","rating":"3.9"}
+[13 02 2017 04:20:09.277] [DEBUG] - Received request{}
+[13 02 2017 04:26:14.522] [DEBUG] - Received request{}
+[13 02 2017 04:29:36.587] [DEBUG] - Received request{}
+[13 02 2017 04:31:09.352] [DEBUG] - Received request{}
+[13 02 2017 04:35:42.715] [DEBUG] - Received request{}
+[13 02 2017 04:36:00.778] [DEBUG] - Received request{}
+[13 02 2017 04:36:14.321] [DEBUG] - Received request{}
+[13 02 2017 04:36:39.406] [DEBUG] - Received request{}
+[13 02 2017 04:37:09.401] [DEBUG] - Received request{}
+[13 02 2017 04:43:24.115] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:43:47.544] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:44:15.183] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:45:51.124] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:46:07.829] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:46:20.844] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 04:46:32.095] [DEBUG] - Received request{}
+[13 02 2017 04:53:36.747] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 05:18:58.791] [DEBUG] - Received request{}
+[13 02 2017 05:25:17.718] [DEBUG] - {"id":"54416","name":"Lan Thai","address":"5th Avenue Mall, Ground Floor, Brigade Road, Bangalore","image":"https://b.zmtcdn.com/data/pictures/6/54416/9c408a32d42d1c10f14d8a7c710f3b6b_featured_v2.jpg","rating":"3.9"}
+[13 02 2017 05:26:07.085] [DEBUG] - Received request{}
+[13 02 2017 05:54:55.447] [DEBUG] - {"id":"52628","name":"Three Quarter Chinese","address":"22, Amoeba Complex, Church Street, Bangalore","image":"https://b.zmtcdn.com/data/pictures/8/52628/6970637267a1096c5f8dd3c1e1c0f951_featured_v2.jpg","rating":"3.8"}
+[13 02 2017 05:55:13.489] [DEBUG] - Received request{}
+[13 02 2017 05:59:12.599] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 05:59:59.590] [DEBUG] - Received request{}
+[13 02 2017 06:01:19.962] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 06:02:09.544] [DEBUG] - Received request{}
+[13 02 2017 06:02:46.734] [DEBUG] - Received request{}
+[13 02 2017 06:23:20.476] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 07:11:45.732] [DEBUG] - {"id":"48845","name":"Simbly South","address":"Pitale Wadi, Hanuman Road, Vile Parle East, Mumbai","image":"https://b.zmtcdn.com/data/pictures/5/48845/fe083df39df98362910cef45097ddae7_featured_v2.jpg","rating":"3.6"}
+[13 02 2017 07:15:04.771] [DEBUG] - Received request{}
+[13 02 2017 07:30:52.758] [DEBUG] - Received request{}
+[13 02 2017 07:32:53.265] [DEBUG] - {"id":"11078","name":"Chinese Room","address":"2434,   Camp, East Street, Pune","image":"https://b.zmtcdn.com/data/pictures/8/11078/9faebc3a63d50be210e22cfaa8c8d112_featured_v2.jpg","rating":"4.0"}
+[13 02 2017 07:33:01.151] [DEBUG] - Received request{}
+[13 02 2017 07:34:16.021] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 07:35:02.558] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 07:35:50.114] [DEBUG] - Received request{}
+[13 02 2017 07:37:33.942] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 07:43:00.560] [DEBUG] - Received request{}
+[13 02 2017 07:43:55.315] [DEBUG] - Received request{}
+[13 02 2017 07:44:24.252] [DEBUG] - Received request{}
+[13 02 2017 07:44:32.314] [DEBUG] - Received request{}
+[13 02 2017 07:44:58.443] [DEBUG] - Received request{}
+[13 02 2017 07:45:10.378] [DEBUG] - Received request{}
+[13 02 2017 07:49:25.242] [DEBUG] - {"id":"900114","name":"Gokul Oottupura","address":"Itty's, Main Avenue, Panampilly Nagar, Kochi","image":"https://b.zmtcdn.com/data/pictures/4/900114/daed019ee9c93e916ee24565ad86b02b_featured_v2.jpg","rating":"3.9"}
+[13 02 2017 07:49:35.814] [DEBUG] - {"id":"95460","name":"Thakkaaram","address":"Dashadan Plaza, Near Passport Office, Panampilly Nagar, Kochi","image":"https://b.zmtcdn.com/data/pictures/0/95460/b3e8ddb618ab73ad2f1393a832b17bce_featured_v2.jpg","rating":"3.6"}
+[13 02 2017 07:50:17.919] [DEBUG] - {"id":"18409005","name":"The Waterfall Restaurant","address":"18, L.V Prasad Road, Dhanalakshmi Colony, Vadapalani, Chennai","image":"https://b.zmtcdn.com/data/pictures/5/18409005/4450c891eaa3d309f55707e4b8038577_featured_v2.jpg","rating":"4.0"}
+[13 02 2017 07:50:35.767] [DEBUG] - {"id":"70894","name":"Maplai","address":"14, Sterling Avenue, Nungambakkam, Chennai","image":"https://b.zmtcdn.com/data/pictures/4/70894/f4da3e4b44b1637392d92122826ee901_featured_v2.jpg","rating":"4.1"}
+[13 02 2017 07:50:47.957] [DEBUG] - {"id":"65128","name":"Crimson Chakra","address":"13, 1st Crescent Road, Gandhi Nagar, Adyar, Chennai","image":"https://b.zmtcdn.com/data/pictures/8/65128/3b7d0048e8236a55d27aba9e7faeced2_featured_v2.jpg","rating":"3.6"}
+[13 02 2017 07:50:54.268] [DEBUG] - Received request{}
+[13 02 2017 09:27:26.281] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 10:22:47.289] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 10:23:00.888] [DEBUG] - Inside get
+[13 02 2017 12:01:19.867] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 12:01:58.138] [DEBUG] - Received request{}
+[13 02 2017 12:02:21.372] [DEBUG] - Received request{}
+[13 02 2017 12:03:11.142] [DEBUG] - Received request{}
+[13 02 2017 12:12:42.130] [DEBUG] - Received request{}
+[13 02 2017 12:13:03.094] [DEBUG] - Received request{}
+[13 02 2017 12:16:05.392] [DEBUG] - Received request{}
+[13 02 2017 12:24:11.272] [DEBUG] - Received request{}
+[13 02 2017 12:24:28.351] [DEBUG] - Received request{}
+[13 02 2017 12:25:24.239] [DEBUG] - Received request{}
+[13 02 2017 12:52:10.354] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 13:12:29.897] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:14:25.499] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 13:14:41.135] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:16:15.321] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:16:52.426] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:19:18.854] [DEBUG] - Inside get
+[13 02 2017 13:21:23.105] [DEBUG] - Inside user post
+[13 02 2017 13:21:23.113] [DEBUG] - Received request{}
+[13 02 2017 13:22:42.624] [DEBUG] - Inside user post
+[13 02 2017 13:22:42.640] [DEBUG] - Received request{}
+[13 02 2017 13:22:53.053] [DEBUG] - Inside get
+[13 02 2017 13:23:45.951] [DEBUG] - Inside user post
+[13 02 2017 13:23:45.957] [DEBUG] - Received request{}
+[13 02 2017 13:24:27.823] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:24:52.796] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:25:00.721] [DEBUG] - Inside user post
+[13 02 2017 13:25:00.725] [DEBUG] - Received request{}
+[13 02 2017 13:25:57.047] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:26:04.475] [DEBUG] - Inside user post
+[13 02 2017 13:26:04.478] [DEBUG] - Received request{}
+[13 02 2017 13:26:18.841] [DEBUG] - Inside get
+[13 02 2017 13:28:00.445] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:28:27.549] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:29:18.194] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:29:35.838] [DEBUG] - Inside user post
+[13 02 2017 13:29:35.840] [DEBUG] - Received request{}
+[13 02 2017 13:29:48.418] [DEBUG] - Inside get
+[13 02 2017 13:30:31.468] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:32:46.101] [DEBUG] - Inside user post
+[13 02 2017 13:32:46.108] [DEBUG] - Received request{}
+[13 02 2017 13:34:25.805] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:35:30.456] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:37:39.114] [DEBUG] - Inside user post
+[13 02 2017 13:37:39.122] [DEBUG] - Received request{"------WebKitFormBoundaryiAOjA0BAbYfHOzYp\r\nContent-Disposition: form-data; name":"\"\"userName\"\"\r\n\r\n\"honeybee\"\r\n------WebKitFormBoundaryiAOjA0BAbYfHOzYp\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"j231a187r\"\r\n------WebKitFormBoundaryiAOjA0BAbYfHOzYp--\r\n"}
+[13 02 2017 13:38:10.636] [DEBUG] - Inside user post
+[13 02 2017 13:38:10.698] [DEBUG] - Received request{"------WebKitFormBoundaryyGgJ7GSpytQSldzw\r\nContent-Disposition: form-data; name":"\"userName\"\r\n\r\n\"honeybee\"\r\n------WebKitFormBoundaryyGgJ7GSpytQSldzw\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n\"j231a187r\"\r\n------WebKitFormBoundaryyGgJ7GSpytQSldzw--\r\n"}
+[13 02 2017 13:38:29.765] [DEBUG] - Inside user post
+[13 02 2017 13:38:29.770] [DEBUG] - Received request{"------WebKitFormBoundaryX8BliVFZuh5feIRa\r\nContent-Disposition: form-data; name":"\"userName\"\r\n\r\n\"hater\"\r\n------WebKitFormBoundaryX8BliVFZuh5feIRa\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n\"j123r\"\r\n------WebKitFormBoundaryX8BliVFZuh5feIRa--\r\n"}
+[13 02 2017 13:38:50.636] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:39:01.265] [DEBUG] - Inside user post
+[13 02 2017 13:39:01.266] [DEBUG] - Received request{"------WebKitFormBoundarynXTPtTD3q8J7V7xn\r\nContent-Disposition: form-data; name":"\"userName\"\r\n\r\n\"hater\"\r\n------WebKitFormBoundarynXTPtTD3q8J7V7xn\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n\"j123r\"\r\n------WebKitFormBoundarynXTPtTD3q8J7V7xn--\r\n"}
+[13 02 2017 13:40:43.950] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:41:01.463] [DEBUG] - Inside user post
+[13 02 2017 13:41:01.465] [DEBUG] - Received request{"------WebKitFormBoundary2joUdDfVdFjl8UC0\r\nContent-Disposition: form-data; name":"\"userName\"\r\n\r\n\"hater\"\r\n------WebKitFormBoundary2joUdDfVdFjl8UC0\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n\"j123r\"\r\n------WebKitFormBoundary2joUdDfVdFjl8UC0--\r\n"}
+[13 02 2017 13:42:10.008] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:42:23.157] [DEBUG] - Inside user post
+[13 02 2017 13:42:23.179] [DEBUG] - Received request{"------WebKitFormBoundarygGryDdEaqKR94GBU\r\nContent-Disposition: form-data; name":"\"userName\"\r\n\r\n\"hater\"\r\n------WebKitFormBoundarygGryDdEaqKR94GBU\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n\"j123r\"\r\n------WebKitFormBoundarygGryDdEaqKR94GBU--\r\n"}
+[13 02 2017 13:43:08.930] [DEBUG] - Inside user post
+[13 02 2017 13:43:08.945] [DEBUG] - Received request{}
+[13 02 2017 13:45:02.477] [DEBUG] - Inside user post
+[13 02 2017 13:45:02.506] [DEBUG] - Received request{}
+[13 02 2017 13:47:24.522] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:47:31.944] [DEBUG] - Inside user post
+[13 02 2017 13:47:31.946] [DEBUG] - Received request{}
+[13 02 2017 13:49:28.684] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:49:40.165] [DEBUG] - Inside user post
+[13 02 2017 13:49:40.166] [DEBUG] - Received request{}
+[13 02 2017 13:53:32.058] [DEBUG] - Inside get
+[13 02 2017 13:56:30.242] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:56:48.578] [DEBUG] - {}
+[13 02 2017 13:58:01.800] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:58:24.964] [DEBUG] - {}
+[13 02 2017 13:59:43.244] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 13:59:54.840] [DEBUG] - {}
+[13 02 2017 14:00:59.051] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 14:01:10.198] [DEBUG] - {}
+[13 02 2017 14:01:44.317] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 14:02:05.247] [DEBUG] - {}
+[13 02 2017 16:42:00.078] [DEBUG] - {}
+[13 02 2017 16:42:02.080] [DEBUG] - {}
+[13 02 2017 16:44:41.006] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:44:54.374] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:45:49.522] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:47:50.433] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:48:02.285] [DEBUG] - Inside user post
+[13 02 2017 16:48:02.286] [DEBUG] - Received request{}
+[13 02 2017 16:51:49.116] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:52:02.610] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:52:55.942] [DEBUG] - Inside user post
+[13 02 2017 16:52:55.966] [DEBUG] - Received request{}
+[13 02 2017 16:55:11.166] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:55:22.521] [DEBUG] - Inside user post
+[13 02 2017 16:55:22.522] [DEBUG] - Received request{}
+[13 02 2017 16:55:50.873] [DEBUG] - Inside user post
+[13 02 2017 16:55:50.880] [DEBUG] - Received request{}
+[13 02 2017 16:56:39.278] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:56:56.419] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 16:57:07.307] [DEBUG] - Inside get
+[13 02 2017 16:58:15.656] [DEBUG] - Inside user post
+[13 02 2017 16:58:15.662] [DEBUG] - Received request{}
+[13 02 2017 16:58:29.206] [DEBUG] - Inside user post
+[13 02 2017 16:58:29.212] [DEBUG] - Received request{}
+[13 02 2017 16:58:44.517] [DEBUG] - Inside get
+[13 02 2017 16:59:47.337] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:00:14.298] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:00:44.953] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 17:02:37.494] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:08:51.383] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:09:35.121] [DEBUG] - Inside user post
+[13 02 2017 17:09:35.132] [DEBUG] - Received request{}
+[13 02 2017 17:10:07.929] [DEBUG] - Inside user post
+[13 02 2017 17:10:07.939] [DEBUG] - Received request{}
+[13 02 2017 17:11:00.990] [DEBUG] - Inside user post
+[13 02 2017 17:11:00.995] [DEBUG] - Received request{}
+[13 02 2017 17:11:07.603] [DEBUG] - Inside user post
+[13 02 2017 17:11:07.628] [DEBUG] - Received request{}
+[13 02 2017 17:11:11.905] [DEBUG] - Inside user post
+[13 02 2017 17:11:11.911] [DEBUG] - Received request{}
+[13 02 2017 17:11:20.292] [DEBUG] - Inside user post
+[13 02 2017 17:11:20.316] [DEBUG] - Received request{}
+[13 02 2017 17:12:16.092] [DEBUG] - Inside user post
+[13 02 2017 17:12:16.101] [DEBUG] - Received request{"------WebKitFormBoundaryTxrBNFSSPIovpJBq\r\nContent-Disposition: form-data; name":"\"username\"\r\n\r\n\"r\"\r\n------WebKitFormBoundaryTxrBNFSSPIovpJBq\r\nContent-Disposition: form-data; name=\"password\"\r\n\r\n\"gf\"\r\n------WebKitFormBoundaryTxrBNFSSPIovpJBq--\r\n"}
+[13 02 2017 17:13:08.655] [DEBUG] - Inside user post
+[13 02 2017 17:13:08.663] [DEBUG] - Received request{"------WebKitFormBoundaryZt498J0PMZrRriKT\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundaryZt498J0PMZrRriKT\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundaryZt498J0PMZrRriKT--\r\n"}
+[13 02 2017 17:15:04.855] [DEBUG] - Inside user post
+[13 02 2017 17:15:04.868] [DEBUG] - Received request{"------WebKitFormBoundarybcHarlmoI14N91aS\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundarybcHarlmoI14N91aS\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundarybcHarlmoI14N91aS--\r\n"}
+[13 02 2017 17:15:20.705] [DEBUG] - Inside user post
+[13 02 2017 17:15:20.709] [DEBUG] - Received request{"------WebKitFormBoundary8zbnPr1pAdXvlnDG\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundary8zbnPr1pAdXvlnDG\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundary8zbnPr1pAdXvlnDG--\r\n"}
+[13 02 2017 17:17:29.564] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:17:38.885] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:17:54.038] [DEBUG] - Inside user post
+[13 02 2017 17:17:54.039] [DEBUG] - Received request{"------WebKitFormBoundary1XIv4YPyBPGtnzT0\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundary1XIv4YPyBPGtnzT0\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundary1XIv4YPyBPGtnzT0--\r\n"}
+[13 02 2017 17:18:09.395] [DEBUG] - Inside get
+[13 02 2017 17:19:04.894] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:19:17.789] [DEBUG] - Inside user post
+[13 02 2017 17:19:17.791] [DEBUG] - Received request{"------WebKitFormBoundary6rrhsHBxk8ehVo0U\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundary6rrhsHBxk8ehVo0U\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundary6rrhsHBxk8ehVo0U--\r\n"}
+[13 02 2017 17:20:16.748] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:20:37.617] [DEBUG] - Inside user post
+[13 02 2017 17:20:37.618] [DEBUG] - Received request{"------WebKitFormBoundaryubcy7JtaXpHLcliC\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundaryubcy7JtaXpHLcliC\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundaryubcy7JtaXpHLcliC--\r\n"}
+[13 02 2017 17:21:15.340] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:21:20.156] [DEBUG] - Inside user post
+[13 02 2017 17:21:20.158] [DEBUG] - Received request{"------WebKitFormBoundarynfB8WOZSDCtFsh4x\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"poo\"\r\n------WebKitFormBoundarynfB8WOZSDCtFsh4x\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"popop\"\r\n------WebKitFormBoundarynfB8WOZSDCtFsh4x--\r\n"}
+[13 02 2017 17:22:03.297] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 17:22:20.080] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:23:07.658] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:23:18.177] [DEBUG] - Inside user post
+[13 02 2017 17:23:18.179] [DEBUG] - Received request{"------WebKitFormBoundaryjdM7tbAWaBIGIKZe\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"hghd\"\r\n------WebKitFormBoundaryjdM7tbAWaBIGIKZe\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"ghdsjn\"\r\n------WebKitFormBoundaryjdM7tbAWaBIGIKZe--\r\n"}
+[13 02 2017 17:24:42.587] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 17:27:11.063] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:28:23.215] [DEBUG] - Mongoose is now disconnected..!
+[13 02 2017 17:30:33.295] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB
+[13 02 2017 17:31:41.461] [DEBUG] - Inside user post
+[13 02 2017 17:31:41.475] [DEBUG] - Received request{"------WebKitFormBoundaryRst7PbpBdH2JkNEB\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"hghd\"\r\n------WebKitFormBoundaryRst7PbpBdH2JkNEB\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"ghdsjn\"\r\n------WebKitFormBoundaryRst7PbpBdH2JkNEB--\r\n"}
+[13 02 2017 17:31:52.997] [DEBUG] - Inside get
+[13 02 2017 17:34:34.207] [DEBUG] - Inside user post
+[13 02 2017 17:34:34.254] [DEBUG] - Received request{"------WebKitFormBoundaryXirbBdnSe0daoQG7\r\nContent-Disposition: form-data; name":"\"\"username\"\"\r\n\r\n\"hghd\"\r\n------WebKitFormBoundaryXirbBdnSe0daoQG7\r\nContent-Disposition: form-data; name=\"\"password\"\"\r\n\r\n\"ghdsjn\"\r\n------WebKitFormBoundaryXirbBdnSe0daoQG7--\r\n"}
+[13 02 2017 17:35:08.022] [DEBUG] - Inside user post
+[13 02 2017 17:35:08.030] [DEBUG] - Received request{}
+[13 02 2017 17:35:57.089] [DEBUG] - Inside user post
+[13 02 2017 17:35:57.097] [DEBUG] - Received request{"username":"\"dhoni\""}
+[13 02 2017 17:36:07.980] [DEBUG] - Inside get
+[13 02 2017 17:37:02.190] [DEBUG] - Inside user post
+[13 02 2017 17:37:02.218] [DEBUG] - Received request{"username":"\"dhoni\"","password":"\"arman\""}
+[13 02 2017 17:37:11.843] [DEBUG] - Inside get
+[13 02 2017 17:52:13.147] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zomatoappDB

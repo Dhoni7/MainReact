@@ -2,14 +2,19 @@
 const logger = require('./../../applogger');
 const router = require('express').Router();
 const userModel = require('./userEntity').userModel;
+const passport = require('passport');
+const Strategy = require('passport-local').Strategy;
+const connectFlash = require('connect-flash');
 
 /* add the user to the system */
 router.post('/add', function(req, res) {
    logger.debug("Inside user post");
    logger.debug("Received request" + JSON.stringify(req.body));
+       console.log("lkjhfg");
    if (Object.keys(req.body).length > 0) {
        let user = new userModel(req.body);
        if (req.body) {
+             console.log("wwwwwwwwww"+Object.keys(req.body));
            user.save(function(err) {
                if (err) {
                    res.send(err);
@@ -40,7 +45,7 @@ router.get('/find', function(req, res) {
 /* update details of all user in the system */
 router.put('/update', function(req, res) {
    logger.debug('Inside update');
-   let name = req.body.userName;
+   let name = req.body.username;
    let password = req.body.password;
    if (Object.keys(req.body).length === 0) {
        res.send('response from user update route check');
@@ -66,7 +71,7 @@ router.put('/update', function(req, res) {
 /* Delete details of user in the system */
 router.delete('/delete', function(req, res) {
    logger.debug('Inside delete');
-   let name = req.body.userName;
+   let name = req.body.username;
    if (Object.keys(req.body).length === 0) {
        res.send('response from user delete route check');
    } else {
@@ -82,5 +87,18 @@ router.delete('/delete', function(req, res) {
        //res.send('deleted');
    }
 });
+router.post('/login',
+passport.authenticate('local', {
+failureFlash: 'Invalid Username and Password',
+successFlash: "Welcome to Movie App"}
+),
+function(req, res) {
+  res.json({responseText:'authenticated'});
+}
+);
 
+router.get('/logout', function(req, res){
+console.log('Session deleted');
+req.session.destroy();
+});
 module.exports = router;

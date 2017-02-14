@@ -41,7 +41,6 @@ class search extends React.Component {
                 </form>
                 <Button size='large' color='green' onClick={this.Clickfn
                   .bind(this, this.state.loc, this.state.cuisine)}>search</Button>
-                  <Button size='large' color='green'> Wish List</Button>
             </div>
         );
     }

@@ -1,14 +1,13 @@
-let React = require('react');
-let ReactDOM = require('react-dom');
-let {browserHistory, Route, Router, IndexRoute} = require('react-router');
-// let GmailBox = require('./components/GmailBox');
-let NavBar = require('./components/NavBar');
-// let About = require('./about.js');
-let Home = require('./clientapp1.jsx');
-let {Favs} = require('./components/sample/favourites.jsx');
+var React = require('react');
+var ReactDOM = require('react-dom');
+var {browserHistory, Route, Router, IndexRoute} = require('react-router');
+var NavBar = require('./components/NavBar');
+var Home = require('./clientapp1.jsx');
+var {Favs} = require('./components/sample/favourites.jsx');
+let login = require('./components/sample/login.jsx');
 
-let MainComp = React.createClass({
-  render: function() {
+var MainComp = React.createClass({
+  render:function(){
     return(
       <div>
       <NavBar/>
@@ -17,11 +16,12 @@ let MainComp = React.createClass({
       </div>
     );
   }
-});
+})
 ReactDOM.render(
   <Router history={browserHistory}>
-                 <Route path="/" component={MainComp}>
-                <IndexRoute component={Home}/>
-                <Route path="/Favs" component={Favs}/>
-              </Route>
-  </Router>, document.getElementById('mountapp'));
+    <Route path="/" component={login}/>
+    <Route component={MainComp}>
+        <Route path="/home" component={Home}/>
+        <Route path="/favs" component={Favs}/>
+    </Route>
+  </Router>,document.getElementById('mountapp'));
